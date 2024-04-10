@@ -1,3 +1,3 @@
 # HTML
-HTML Demo
-Learning GitHub
+HTML Demo.
+Learning GitHub.
